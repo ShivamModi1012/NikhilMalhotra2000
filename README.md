@@ -46,7 +46,7 @@
   <h4> System Design | Software Development | Micro Services | Competetive Programming | Youtube</h4>
    </p>
 
- - 💬 Connect? lets get social 👉🏼[<img src="https://cdn.iconscout.com/icon/free/png-512/instagram-221-838384.png" height="30" >](https://twitter.com/nikhilm2000)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://cdn.iconscout.com/icon/free/png-512/instagram-221-838384.png" height="30" >](https://www.instagram.com/nikhil_malhotra__/)
 
 <!--
 **I am Into , 🙏**
