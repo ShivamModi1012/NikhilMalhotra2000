@@ -33,7 +33,7 @@
 
  - 🥀 Learning  Android<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>Kotlin <code></code>
    
- - 🔭 SpaceX FanBoi, Vanilla in Space😼
+ - 🔭 Chess FanBoi, Tal.😼
  -  Full Stack Developer
 
  - 🛸 Into Table Tennis, professional player since 8 years.
